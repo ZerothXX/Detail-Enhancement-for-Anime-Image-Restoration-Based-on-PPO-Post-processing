@@ -71,6 +71,7 @@ python train.py
 * 4 种训练曲线图（奖励收敛、损失曲线、质量曲线、细节曲线）
 * 掩码图片与修复效果对比图
 * `metrics\\\\\\\_history.json` 指标记录
+![reward_convergence](reward_convergence.png)
 
 ### 评估
 
